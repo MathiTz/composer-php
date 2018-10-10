@@ -1,0 +1,10 @@
+{
+    "name": "cursomatheus/composer",
+    "description": "Aula de PHP7",
+    "type": "project",
+    "minimum-stability": "dev",
+    "require": {
+        "monolog/monolog":"1.0.*"
+    }
+
+}
